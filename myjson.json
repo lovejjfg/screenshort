@@ -12,7 +12,7 @@
 		"resource":"com.example.FooActivity" 
 		},
 	{
-		"id":"main",
+		"id":"mai2n",
 		"description":"主画面",
 		"type":1,  
 		"resource":"com.example.FooActivity" 
