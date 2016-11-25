@@ -6,8 +6,8 @@
 		"resource":"com.example.FooActivity" 
 	},
 	{
-		"id":"main",
-		"description":"主画面",
+		"id":"main2",
+		"description":"主画面2",
 		"type":1,  
 		"resource":"com.example.FooActivity" 
 		},
